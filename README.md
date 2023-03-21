@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](simple-clock.jpg "Desktop Demo")
+![Portfolio Desktop Demo](adventure.png "Desktop Demo")
 
 ### Prerequisites
 
