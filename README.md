@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/https:/abhijeet1681/tourism)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/abhijeet1681/tourism)
   [![Instagram Follow](https://img.shields.io/badge/-Instagram-FF1494)](https://instagram.com/developer_abhii?igshid=ZDdkNTZiNTM=)
 
 
